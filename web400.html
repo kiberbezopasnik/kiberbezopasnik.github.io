@@ -2,6 +2,7 @@
 
 <script>
 flag="ctf{ro1e_admin_or_user}"
+alert(document.cookies=="role=admin")
 if(document.cookies=="role=admin"){alert(flag)}
 else{document.cookies="role=user"}
 </script>
