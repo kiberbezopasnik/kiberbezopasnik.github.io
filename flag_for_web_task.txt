@@ -1,0 +1,1 @@
+ctf{robots_clever_but_people_more_clever}
