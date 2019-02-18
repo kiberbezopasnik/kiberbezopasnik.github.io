@@ -1,0 +1,12 @@
+<html>
+<head>
+<meta charset="utf-8">
+<script>
+flag='ctf{1nject1ons_very_coo1}';
+k=prompt('Просто подари мне один только alert(flag)', '');
+eval(k)
+</script></head>
+</body>
+<body>
+<h1>Если бы этот таск был простой, то за него не давали бы 200 очков! Хотя, возможно, автор таска ошибся и все очень просто.</h1>
+</html>
